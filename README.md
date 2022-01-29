@@ -56,7 +56,7 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 </br>
-[![Editor](https://img.shields.io/badge/Editor-Intellj-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://www.jetbrains.com/idea/download/#section=windows)
+[![Editor](https://img.shields.io/badge/Editor-VsCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://www.jetbrains.com/idea/download/#section=windows)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 </br>
