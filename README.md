@@ -91,10 +91,10 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 
 ## Quick Overview 📝
 
-<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
+<img align="left" width="48%" src="https://github-readme-stats.goalsachiever.vercel.app/api?username=goalsachiever&show_icons=true&include_all_commits=true&theme=radical" alt="Vishu's github stats" />
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
- <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=goalsachiever&theme=tokyonight" alt="goalsachiever"/>
+ <img align="center"  width="40%" src="https://github-readme-stats.goalsachiever.vercel.app/api/top-langs/?username=goalsachiever&layout=compact&theme=radical" alt="goalsachiever" />
 
  <p align="center"> 
 
@@ -102,22 +102,22 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 <!--footer-->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917453010168) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
 <div align="center">
-<a href="https://github.com/hackcoderr" target="_blank">
+<a href="https://github.com/goalsachiever" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/hackcoderr" target="_blank">
+<a href="https://www.facebook.com/vishugoyal48/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@hackcoderr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://medium.com/@vishugoyal" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/hackcoderr" target="_blank">
+<a href="https://www.linkedin.com/in/vishugoyal03/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/hackcoderr" target="_blank">
+<a href="https://www.instagram.com/vishu_goyal_03/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -131,7 +131,7 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 
 <p align="center"> 
  <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+  <img src="https://profile-counter.glitch.me/goalsachiever/count.svg" />
 </p>
 
 
@@ -139,7 +139,7 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 
 
 
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/goalsachiever/goalsachiever"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 
 
