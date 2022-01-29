@@ -22,7 +22,9 @@
 </div> 
 
 </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=etishajain17&label=Profile%20views&color=0e75b6&style=flat" alt="etishajain17" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etishajain17" alt="etishajain17" /></a> </p>
 
 <!--About Me-->
 <div>
