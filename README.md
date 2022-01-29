@@ -75,6 +75,7 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
+</br>
 
 [![Vishu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=goalsachiever&&theme=xcode)](https://github.com/goalsachiever)
 
