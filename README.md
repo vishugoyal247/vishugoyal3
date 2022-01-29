@@ -49,6 +49,7 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+</t></t>
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 </br>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
