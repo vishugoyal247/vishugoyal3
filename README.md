@@ -17,7 +17,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/goalsachiever?label=Follow&style=social)](https://github.com/goalsachiever)
 ![GitHub Stars](https://img.shields.io/github/stars/goalsachiever?style=social)
 [![Instagram Badge](https://img.shields.io/badge/-Vishu%20Goyal-blue?style=social&logo=Instagram&link=https://www.instagram.com/vishu_goyal_03/)](https://www.instagram.com/vishu_goyal_03/)
-
+![!Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=goalsachiever)
 
 
 </div> 
