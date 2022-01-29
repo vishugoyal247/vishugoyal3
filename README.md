@@ -118,6 +118,36 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
+<!--BLOG Process-->
+## Updates 🤓
+<b>
+<table><tr><td valign="top" width="33%">
+
+### [DEVOPS]
+<!-- recent_releases starts -->
+
+
+</td><td valign="top" width="25%"> 
+
+### [BigData]
+<!-- recent_releases starts -->
+
+
+[MLOPS]
+
+
+</td><td valign="top" width="30%"> 
+
+### [Machine Learning]
+<!-- blog starts -->
+
+
+</td><td valign="top" width="50%">
+
+### [Cloud]
+<!-- tils starts -->
+
+</td></tr></table> </b>
 
 
 ##
@@ -163,17 +193,3 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-<!--
-**goalsachiever/goalsachiever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
