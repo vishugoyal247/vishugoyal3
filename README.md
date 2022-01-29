@@ -107,6 +107,17 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <!--footer-->
 
+
+###
+
+<b>My GitHub contributions as a Game of Life</b>
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/goalsachiever.gif?z=6)](https://github4life.herokuapp.com/goalsachiever)
+
+##
+
+
+
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917453010168) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
