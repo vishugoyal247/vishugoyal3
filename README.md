@@ -23,7 +23,6 @@
 
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goalsachiever" alt="goalsachiever" /></a> </p>
 
 <!--About Me-->
 <div>
@@ -123,28 +122,28 @@ but also gives you various benefits which can improve the quality of your life. 
 <b>
 <table><tr><td valign="top" width="33%">
 
-### [DEVOPS]
+### [LINUX]
 <!-- recent_releases starts -->
 
 
 </td><td valign="top" width="25%"> 
 
-### [BigData]
+### [JAVA]
 <!-- recent_releases starts -->
 
 
-[MLOPS]
+
 
 
 </td><td valign="top" width="30%"> 
 
-### [Machine Learning]
+### [DSA]
 <!-- blog starts -->
 
 
 </td><td valign="top" width="50%">
 
-### [Cloud]
+### [DevOps]
 <!-- tils starts -->
 
 </td></tr></table> </b>
