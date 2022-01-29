@@ -91,10 +91,10 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 
 ## Quick Overview 📝
 
-<img align="left" width="48%" src="https://github-readme-stats.goalsachiever.vercel.app/api?username=goalsachiever&show_icons=true&include_all_commits=true&theme=radical" alt="Vishu's github stats" />
+<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=goalsachiever&show_icons=true&include_all_commits=true&theme=radical" alt="Vishu's github stats" />
 </p>
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=goalsachiever&theme=tokyonight" alt="goalsachiever"/>
- <img align="center"  width="40%" src="https://github-readme-stats.goalsachiever.vercel.app/api/top-langs/?username=goalsachiever&layout=compact&theme=radical" alt="goalsachiever" />
+ <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=goalsachiever&layout=compact&theme=radical" alt="goalsachiever" />
 
  <p align="center"> 
 
