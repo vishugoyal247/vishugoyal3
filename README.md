@@ -125,7 +125,6 @@ but also gives you various benefits which can improve the quality of your life. 
 ### [LINUX]
 <!-- recent_releases starts -->
 
-
 </td><td valign="top" width="25%"> 
 
 ### [JAVA]
