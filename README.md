@@ -112,7 +112,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <b>My GitHub contributions as a Game of Life</b>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/goalsachiever.gif?z=6)](https://github4life.herokuapp.com/goalsachiever)
+[![GitHub Game of Life](https://github4life.herokuapp.com/amit17133129.gif?z=6)](https://github4life.herokuapp.com/goalsachiever)
 
 ##
 
