@@ -76,6 +76,7 @@ I'm <b> Vishu Goyal</b>, a pursuing <b>Computer Science Engineer With Artificial
 [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
 
+[![Vishu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=goalsachiever&&theme=xcode)](https://github.com/goalsachiever)
 
 
 <!--
